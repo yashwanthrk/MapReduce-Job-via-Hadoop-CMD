@@ -5,6 +5,6 @@ MapReduce is a programming model, and Hadoop is an open-source software framewor
 
 <a name="br1"></a> 
 
-**Team members : Dhiraj Gunasheela Nikitha Sadananda, Rakshith Venkatesh Murthy Gowda and Yashwanth R K**
+**Team members : Dhiraj Gunasheela, Nikitha Sadananda, Rakshith Venkatesh Murthy Gowda, and Yashwanth R K**
 
 
